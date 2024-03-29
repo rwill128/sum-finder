@@ -1,0 +1,1 @@
+Basic repo for code test, all tests can be run with mvn test.
